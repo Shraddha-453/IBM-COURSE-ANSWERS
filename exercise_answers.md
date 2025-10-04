@@ -69,7 +69,7 @@ sequenceDiagram
     Note right of browser: The SPA dynamically renders the notes on the page
 
 # 3. New note in Single page app diagram
-    ```mermaid
+```mermaid
     sequenceDiagram
     participant browser
     participant server
